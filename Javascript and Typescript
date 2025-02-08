@@ -1,0 +1,11 @@
+1. Explain the differences between
+-void and never
+-undefined and null
+-shallow copy and deep copy
+-any and unknown
+-typescript and ecmascript
+-promises and observables
+-object and map
+
+2. What are generic types.
+3. What is arrow function? Whats the benefit of using it.
